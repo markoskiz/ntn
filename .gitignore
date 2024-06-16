@@ -2,6 +2,9 @@
 __pycache__
 .ipynb_checkpoints/
 .idea
+other/vezbi_z/ipa.py
+run.sh
+w_run.sh
 venv
 Презентации/*aux
 Презентации/*log
