@@ -1,0 +1,14 @@
+.gitignore~
+__pycache__
+.ipynb_checkpoints/
+.idea
+venv
+Презентации/*aux
+Презентации/*log
+Презентации/*nav
+Презентации/*out
+Презентации/*pdf
+Презентации/*snm
+Презентации/*gz
+Презентации/*toc
+
